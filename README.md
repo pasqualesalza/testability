@@ -1,4 +1,6 @@
-# Measuring Software Testability Modulo Test Quality
+# Measuring Software Testability Modulo Test Quality - Replication package
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This repository represents the replication package for the paper *Measuring Software Testability Modulo Test Quality*.
 
@@ -18,6 +20,14 @@ If you would like to cite the dataset, please use the following `BibTeX` snippet
     doi = {10.1145/3387904.3389273},
 }
 ```
+
+## License
+
+This replication package is licensed under the terms of the [Creative Commons Attribution 4.0 International License][cc-by].
+Please see the [LICENSE](LICENSE) file for full details.
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Credits
 
